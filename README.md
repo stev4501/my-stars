@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code
 - [BEKO2210/Firstbrain](https://github.com/BEKO2210/Firstbrain) - Second Brain - Obsidian Edition - Personal Knowledge Management System
 - [darinkishore/Inbox-MCP](https://github.com/darinkishore/Inbox-MCP) - A Model Context Protocol (MCP) server for email integration via Nylas. Enables AI assistants to effortlessly batch-triage, organize, and automate email through natural language interactions.
@@ -94,7 +95,7 @@
 - [the-momentum/open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 - [oracle/mcp](https://github.com/oracle/mcp) - Repository containing MCP (Model Context Protocol) servers that provides a suite of tools for managing and interacting with Oracle products.
 - [danielmeppiel/oracle-mcp-server](https://github.com/danielmeppiel/oracle-mcp-server) - MCP Server for working with large Oracle databases
-- [huggingface/skills](https://github.com/huggingface/skills) - 
+- [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 - [LGDiMaggio/predictive-maintenance-mcp](https://github.com/LGDiMaggio/predictive-maintenance-mcp) - AI-Powered Predictive Maintenance & Fault Diagnosis through Model Context Protocol. An open-source framework for integrating Large Language Models with predictive maintenance and fault diagnosis workf
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
@@ -125,6 +126,7 @@
 
 ## Rust 
 
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [yologdev/yoyo-evolve](https://github.com/yologdev/yoyo-evolve) - A coding agent that evolves itself. One commit per day.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 
@@ -141,7 +143,7 @@
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 - [VectifyAI/pageindex-mcp](https://github.com/VectifyAI/pageindex-mcp) - MCP server for PageIndex. PageIndex is a vectorless reasoning-based RAG system which uses multi-step reasoning and tree search to retrieve information like a human expert would.
 - [TheBlueBoxDev/openwearables-react-native-sdk](https://github.com/TheBlueBoxDev/openwearables-react-native-sdk) - ⛔️ DEPRECATED - React Native wrapper of Open Wearables native SDK
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
