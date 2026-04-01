@@ -151,6 +151,7 @@
 
 ## TypeScript 
 
+- [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
 - [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
 - [louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp) - Allow all your Claude Codes to message each other ad-hoc!
 - [chenglou/pretext](https://github.com/chenglou/pretext) - 
