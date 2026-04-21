@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C++](#c++)
 - [Go](#go)
 - [HTML](#html)
@@ -21,12 +22,17 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 
+## C 
+
+- [IonCojucari/Time-Series-Analysis---Chemical-Mechanical-Polishing](https://github.com/IonCojucari/Time-Series-Analysis---Chemical-Mechanical-Polishing) - This C project focuses on analyzing time series data from a Chemical Mechanical Polishing (CMP) process used in the semiconductor industry. The goal is to predict and analyze the average material remo
+
 ## C++ 
 
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
 
 ## Go 
 
+- [seikaikyo/go-factory-io](https://github.com/seikaikyo/go-factory-io) - SECS/GEM Go driver for semiconductor equipment communication (SEMI E5/E30/E37)
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
@@ -63,6 +69,9 @@
 
 ## Jupyter Notebook 
 
+- [CodeByKarthik/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines](https://github.com/CodeByKarthik/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines) - This project focuses on the performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features. By performing classification and identifying the m
+- [Shivamckaushik/SemiFA](https://github.com/Shivamckaushik/SemiFA) - SemiFA: Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation | LangGraph · LLaVA-1.6 · DINOv2 · SECS/GEM · Qdrant
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [david-amirault/amhs](https://github.com/david-amirault/amhs) - Simulation and models for the automated material handling system of a modern semiconductor Fab.
@@ -100,6 +109,13 @@
 
 ## Python 
 
+- [giridhar-aditya/Fault-Detection-SECOM](https://github.com/giridhar-aditya/Fault-Detection-SECOM) - A fault detection model using XGBoost to classify manufacturing defects in the SECOM dataset with preprocessing and evaluation.
+- [TemilolaG/secom-fault-detection](https://github.com/TemilolaG/secom-fault-detection) - Semiconductor fault detection pipeline — PostgreSQL, XGBoost, SHAP, Streamlit
+- [ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot](https://github.com/ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot) - An end-to-end machine learning pipeline for fault detection in semiconductor manufacturing using Machine Learning, FastAPI with Swagger UI for real-time inference, and a RAG-powered Streamlit chatbot
+- [ackrds/CMP](https://github.com/ackrds/CMP) - This is a Physics Informed ML solution to the deflection of a wafer during the chemical-mechanical polishing. It is being developed at the Fraunhofer ENAS institute.
+- [jlov7/MCP-Interop-BakeOff](https://github.com/jlov7/MCP-Interop-BakeOff) - Aresearch-grade harness for stress-testing Multi-Channel Protocol (MCP) servers across multiple agent runtimes. It ships a shared MCP server, a reproducible task suite, and automation that runs those 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -161,6 +177,7 @@
 
 ## Shell 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) - Claude Code Skills
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -173,6 +190,8 @@
 
 ## TypeScript 
 
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor) - A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
 - [crishood/pdf-folder-to-markdowns](https://github.com/crishood/pdf-folder-to-markdowns) - Convert a folder of PDFs into a folder of Markdown files with embedded PDFs. This plugin is useful for users who want to migrate their PDF notes from different apps (e.g., Boox) or organize their refe
