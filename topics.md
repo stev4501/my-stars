@@ -25,10 +25,12 @@
 - [code](#code)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
+- [computer-vision](#computer-vision)
 - [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [data](#data)
+- [data-science](#data-science)
 - [database](#database)
 - [design](#design)
 - [developer-tools](#developer-tools)
@@ -47,6 +49,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [ios](#ios)
+- [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
@@ -63,6 +66,7 @@
 - [monitoring](#monitoring)
 - [natural-language-processing](#natural-language-processing)
 - [nextjs](#nextjs)
+- [nlp](#nlp)
 - [obsidian](#obsidian)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -98,6 +102,9 @@
 
 ## ai 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -120,6 +127,7 @@
 
 ## ai-agents 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -143,12 +151,14 @@
 
 ## artificial-intelligence 
 
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [metaspartan/curiso](https://github.com/metaspartan/curiso) - Curiso is an infinite canvas for your thoughts
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## automation 
 
+- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -198,6 +208,8 @@
 
 ## claude-code 
 
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases.
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -236,6 +248,10 @@
 
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 
+## computer-vision 
+
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
+
 ## config 
 
 - [BrianPugh/autoregistry](https://github.com/BrianPugh/autoregistry) - Automatic registry design-pattern library for mapping string names to code functionality.
@@ -251,6 +267,10 @@
 ## data 
 
 - [superduper-io/superduper](https://github.com/superduper-io/superduper) - Superduper: End-to-end framework for building custom AI applications and agents.
+
+## data-science 
+
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 
 ## database 
 
@@ -271,10 +291,12 @@
 
 ## docker 
 
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
 
 ## documentation 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
 
 ## education 
@@ -328,6 +350,10 @@
 
 - [alexander-akhmetov/python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
 
+## iot 
+
+- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
+
 ## java 
 
 - [kenta-shimizu/secs4java8](https://github.com/kenta-shimizu/secs4java8) - This library is SEMI-SECS-communicate implementation on Java8.
@@ -375,6 +401,7 @@
 
 ## machine-learning 
 
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer
 - [enactic/openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -395,6 +422,8 @@
 
 ## mcp 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [darinkishore/Inbox-MCP](https://github.com/darinkishore/Inbox-MCP) - A Model Context Protocol (MCP) server for email integration via Nylas. Enables AI assistants to effortlessly batch-triage, organize, and automate email through natural language interactions.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -414,6 +443,7 @@
 
 ## natural-language-processing 
 
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 
 ## nextjs 
@@ -421,8 +451,13 @@
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
+## nlp 
+
+- [explosion/prodigy-recipes](https://github.com/explosion/prodigy-recipes) - 🍳 Recipes for the Prodigy, our fully scriptable annotation tool
+
 ## obsidian 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor) - A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
 - [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
@@ -438,6 +473,7 @@
 
 ## open-source 
 
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -446,6 +482,7 @@
 
 ## openai 
 
+- [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
@@ -461,6 +498,16 @@
 
 ## others 
 
+- [giridhar-aditya/Fault-Detection-SECOM](https://github.com/giridhar-aditya/Fault-Detection-SECOM) - A fault detection model using XGBoost to classify manufacturing defects in the SECOM dataset with preprocessing and evaluation.
+- [TemilolaG/secom-fault-detection](https://github.com/TemilolaG/secom-fault-detection) - Semiconductor fault detection pipeline — PostgreSQL, XGBoost, SHAP, Streamlit
+- [ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot](https://github.com/ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot) - An end-to-end machine learning pipeline for fault detection in semiconductor manufacturing using Machine Learning, FastAPI with Swagger UI for real-time inference, and a RAG-powered Streamlit chatbot
+- [CodeByKarthik/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines](https://github.com/CodeByKarthik/Performance-Evaluation-and-Predictive-Maintenance-of-Semiconductor-Manufacturing-Machines) - This project focuses on the performance evaluation and predictive maintenance of semiconductor manufacturing machines using over 600 sensor features. By performing classification and identifying the m
+- [ackrds/CMP](https://github.com/ackrds/CMP) - This is a Physics Informed ML solution to the deflection of a wafer during the chemical-mechanical polishing. It is being developed at the Fraunhofer ENAS institute.
+- [IonCojucari/Time-Series-Analysis---Chemical-Mechanical-Polishing](https://github.com/IonCojucari/Time-Series-Analysis---Chemical-Mechanical-Polishing) - This C project focuses on analyzing time series data from a Chemical Mechanical Polishing (CMP) process used in the semiconductor industry. The goal is to predict and analyze the average material remo
+- [jlov7/MCP-Interop-BakeOff](https://github.com/jlov7/MCP-Interop-BakeOff) - Aresearch-grade harness for stress-testing Multi-Channel Protocol (MCP) servers across multiple agent runtimes. It ships a shared MCP server, a reproducible task suite, and automation that runs those 
+- [Shivamckaushik/SemiFA](https://github.com/Shivamckaushik/SemiFA) - SemiFA: Agentic Multi-Modal Framework for Autonomous Semiconductor Failure Analysis Report Generation | LangGraph · LLaVA-1.6 · DINOv2 · SECS/GEM · Qdrant
+- [seikaikyo/go-factory-io](https://github.com/seikaikyo/go-factory-io) - SECS/GEM Go driver for semiconductor equipment communication (SEMI E5/E30/E37)
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) - Claude Code Skills
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -535,6 +582,7 @@
 
 ## postgresql 
 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 
 ## productivity 
@@ -556,6 +604,7 @@
 
 ## python 
 
+- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
