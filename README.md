@@ -28,6 +28,8 @@
 
 ## C++ 
 
+- [mtconnect/adapter](https://github.com/mtconnect/adapter) - MTConnect adapter framework
+- [mtconnect/cppagent](https://github.com/mtconnect/cppagent) - C++ Agent toolkit - Pre-built binaries, visit: https://github.com/mtconnect/cppagent/releases Docker images available at https://hub.docker.com/repositories/mtconnect
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
 
 ## Go 
@@ -90,6 +92,8 @@
 
 ## Others 
 
+- [mtconnect/2025-MTConnect-Bootcamp](https://github.com/mtconnect/2025-MTConnect-Bootcamp) - November 2025 MTConnect Education Bootcamp
+- [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [Railly/agent-brain](https://github.com/Railly/agent-brain) - An agent-powered knowledge system built on Obsidian + Claude Code + Codex
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - 
