@@ -18,6 +18,7 @@
 - [bitcoin](#bitcoin)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [claude-code](#claude-code)
@@ -97,6 +98,7 @@
 
 ## agent 
 
+- [mtconnect/cppagent](https://github.com/mtconnect/cppagent) - C++ Agent toolkit - Pre-built binaries, visit: https://github.com/mtconnect/cppagent/releases Docker images available at https://hub.docker.com/repositories/mtconnect
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
 
@@ -194,6 +196,10 @@
 ## c 
 
 - [eerimoq/asn1tools](https://github.com/eerimoq/asn1tools) - ASN.1 parsing, encoding and decoding.
+
+## c-plus-plus 
+
+- [mtconnect/cppagent](https://github.com/mtconnect/cppagent) - C++ Agent toolkit - Pre-built binaries, visit: https://github.com/mtconnect/cppagent/releases Docker images available at https://hub.docker.com/repositories/mtconnect
 
 ## chatbot 
 
@@ -302,6 +308,7 @@
 
 ## education 
 
+- [mtconnect/2025-MTConnect-Bootcamp](https://github.com/mtconnect/2025-MTConnect-Bootcamp) - November 2025 MTConnect Education Bootcamp
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
@@ -501,6 +508,8 @@
 
 ## others 
 
+- [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
+- [mtconnect/adapter](https://github.com/mtconnect/adapter) - MTConnect adapter framework
 - [giridhar-aditya/Fault-Detection-SECOM](https://github.com/giridhar-aditya/Fault-Detection-SECOM) - A fault detection model using XGBoost to classify manufacturing defects in the SECOM dataset with preprocessing and evaluation.
 - [TemilolaG/secom-fault-detection](https://github.com/TemilolaG/secom-fault-detection) - Semiconductor fault detection pipeline — PostgreSQL, XGBoost, SHAP, Streamlit
 - [ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot](https://github.com/ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot) - An end-to-end machine learning pipeline for fault detection in semiconductor manufacturing using Machine Learning, FastAPI with Swagger UI for real-time inference, and a RAG-powered Streamlit chatbot
