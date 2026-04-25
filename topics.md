@@ -104,6 +104,7 @@
 
 ## ai 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Plugin/Skill or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, cross-project/rep
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
@@ -129,6 +130,7 @@
 
 ## ai-agents 
 
+- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -508,6 +510,7 @@
 
 ## others 
 
+- [earthtojake/urdf-skill](https://github.com/earthtojake/urdf-skill) - Skill for URDF generation and validation for robot model outputs
 - [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
 - [mtconnect/adapter](https://github.com/mtconnect/adapter) - MTConnect adapter framework
 - [giridhar-aditya/Fault-Detection-SECOM](https://github.com/giridhar-aditya/Fault-Detection-SECOM) - A fault detection model using XGBoost to classify manufacturing defects in the SECOM dataset with preprocessing and evaluation.
