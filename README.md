@@ -7,10 +7,12 @@
 
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [MDX](#mdx)
@@ -31,6 +33,10 @@
 - [mtconnect/adapter](https://github.com/mtconnect/adapter) - MTConnect adapter framework
 - [mtconnect/cppagent](https://github.com/mtconnect/cppagent) - C++ Agent toolkit - Pre-built binaries, visit: https://github.com/mtconnect/cppagent/releases Docker images available at https://hub.docker.com/repositories/mtconnect
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
+
+## CSS 
+
+- [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 
 ## Go 
 
@@ -55,6 +61,7 @@
 
 ## JavaScript 
 
+- [wbelk/claude-qmd-sessions](https://github.com/wbelk/claude-qmd-sessions) - Persistent chat session memory for Claude Code with qmd. Index updates itself via Claude hooks.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
@@ -69,6 +76,10 @@
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.
 - [stagsz/Unconventional-thinking](https://github.com/stagsz/Unconventional-thinking) - An MCP server for unconventional and boundary-breaking problem-solving through an advanced note-taking system.
 - [Clutch152/scripts](https://github.com/Clutch152/scripts) - Collection of scripts for the lazy ... &gt;.&gt;
+
+## Jinja 
+
+- [jylkim/obsidian-sync](https://github.com/jylkim/obsidian-sync) - Claude Code plugin — sync sessions to Obsidian vaults as structured notes with multi-agent analysis and qmd semantic recall
 
 ## Jupyter Notebook 
 
@@ -93,6 +104,9 @@
 
 ## Others 
 
+- [aakashg/claude-routines-and-agents-pm-pack](https://github.com/aakashg/claude-routines-and-agents-pm-pack) - Companion repo to 'Opus-4.7 + Claude Routines & Managed Agents = PM Magic'. Production-ready prompts, sample outputs, engineer handoff brief, security docs, and team rollout plan.
+- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
+- [ericporres/email-triage-plugin](https://github.com/ericporres/email-triage-plugin) - A plugin template that turns Claude into your personal email triage assistant. Includes three-tier classification, alias-aware routing, reply drafting, and archive management.
 - [mtconnect/2025-MTConnect-Bootcamp](https://github.com/mtconnect/2025-MTConnect-Bootcamp) - November 2025 MTConnect Education Bootcamp
 - [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
@@ -114,6 +128,9 @@
 
 ## Python 
 
+- [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [earthtojake/urdf-skill](https://github.com/earthtojake/urdf-skill) - Skill for URDF generation and validation for robot model outputs
 - [giridhar-aditya/Fault-Detection-SECOM](https://github.com/giridhar-aditya/Fault-Detection-SECOM) - A fault detection model using XGBoost to classify manufacturing defects in the SECOM dataset with preprocessing and evaluation.
 - [TemilolaG/secom-fault-detection](https://github.com/TemilolaG/secom-fault-detection) - Semiconductor fault detection pipeline — PostgreSQL, XGBoost, SHAP, Streamlit
@@ -184,6 +201,7 @@
 
 ## Shell 
 
+- [mimurchison/claude-chief-of-staff](https://github.com/mimurchison/claude-chief-of-staff) - AI Chief of Staff — Your personal AI operating system built on Claude Code
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) - Claude Code Skills
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
@@ -197,6 +215,8 @@
 
 ## TypeScript 
 
+- [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
+- [ChenziqiAdam/Daily-News-Briefing](https://github.com/ChenziqiAdam/Daily-News-Briefing) - Get AI-powered daily news summaries directly in your Obsidian vault. Stay informed about your topics of interest with smart, automated news collection and summarization.
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, intera
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
