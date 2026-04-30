@@ -104,6 +104,7 @@
 
 ## ai 
 
+- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, intera
@@ -130,6 +131,7 @@
 
 ## ai-agents 
 
+- [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - An open source harness for generating CAD models
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
@@ -217,6 +219,10 @@
 
 ## claude-code 
 
+- [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
+- [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
+- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
+- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, intera
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
@@ -293,6 +299,7 @@
 
 ## developer-tools 
 
+- [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
 ## development 
@@ -433,6 +440,8 @@
 
 ## mcp 
 
+- [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
+- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, private & local Plugin/Skill or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, intera
@@ -469,6 +478,7 @@
 
 ## obsidian 
 
+- [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor) - A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
 - [atomicmemory/llm-wiki-compiler](https://github.com/atomicmemory/llm-wiki-compiler) - The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.
@@ -479,12 +489,14 @@
 
 ## obsidian-plugin 
 
+- [ChenziqiAdam/Daily-News-Briefing](https://github.com/ChenziqiAdam/Daily-News-Briefing) - Get AI-powered daily news summaries directly in your Obsidian vault. Stay informed about your topics of interest with smart, automated news collection and summarization.
 - [scambier/obsidian-text-extractor](https://github.com/scambier/obsidian-text-extractor) - A (companion) plugin to facilitate the extraction of text from images (OCR) and PDFs.
 - [crishood/pdf-folder-to-markdowns](https://github.com/crishood/pdf-folder-to-markdowns) - Convert a folder of PDFs into a folder of Markdown files with embedded PDFs. This plugin is useful for users who want to migrate their PDF notes from different apps (e.g., Boox) or organize their refe
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 
 ## open-source 
 
+- [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
@@ -511,6 +523,13 @@
 
 ## others 
 
+- [jylkim/obsidian-sync](https://github.com/jylkim/obsidian-sync) - Claude Code plugin — sync sessions to Obsidian vaults as structured notes with multi-agent analysis and qmd semantic recall
+- [wbelk/claude-qmd-sessions](https://github.com/wbelk/claude-qmd-sessions) - Persistent chat session memory for Claude Code with qmd. Index updates itself via Claude hooks.
+- [aakashg/claude-routines-and-agents-pm-pack](https://github.com/aakashg/claude-routines-and-agents-pm-pack) - Companion repo to 'Opus-4.7 + Claude Routines & Managed Agents = PM Magic'. Production-ready prompts, sample outputs, engineer handoff brief, security docs, and team rollout plan.
+- [mimurchison/claude-chief-of-staff](https://github.com/mimurchison/claude-chief-of-staff) - AI Chief of Staff — Your personal AI operating system built on Claude Code
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [ericporres/email-triage-plugin](https://github.com/ericporres/email-triage-plugin) - A plugin template that turns Claude into your personal email triage assistant. Includes three-tier classification, alias-aware routing, reply drafting, and archive management.
+- [lguenth/obsidian-templates](https://github.com/lguenth/obsidian-templates) - A collection of templates for Obsidian
 - [earthtojake/urdf-skill](https://github.com/earthtojake/urdf-skill) - Skill for URDF generation and validation for robot model outputs
 - [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
 - [mtconnect/adapter](https://github.com/mtconnect/adapter) - MTConnect adapter framework
@@ -603,6 +622,7 @@
 
 ## productivity 
 
+- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
 - [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) - A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -615,6 +635,7 @@
 
 ## prompt-engineering 
 
+- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.5 Thinking), Claude (Opus 4.7, Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, Gemini CLI), Grok (4.3 beta), Perplexity, and more. Updated re
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
