@@ -162,7 +162,7 @@
 - [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - The memory for your AI Agents in 6 lines of code
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
@@ -226,6 +226,7 @@
 
 ## TypeScript 
 
+- [willchen96/mike](https://github.com/willchen96/mike) - OSS AI Legal Platform
 - [avihaymenahem/velo](https://github.com/avihaymenahem/velo) - Open source desktop email client
 - [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
 - [ChenziqiAdam/Daily-News-Briefing](https://github.com/ChenziqiAdam/Daily-News-Briefing) - Get AI-powered daily news summaries directly in your Obsidian vault. Stay informed about your topics of interest with smart, automated news collection and summarization.
