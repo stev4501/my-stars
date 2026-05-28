@@ -152,7 +152,7 @@
 - [jlov7/MCP-Interop-BakeOff](https://github.com/jlov7/MCP-Interop-BakeOff) - Aresearch-grade harness for stress-testing Multi-Channel Protocol (MCP) servers across multiple agent runtimes. It ships a shared MCP server, a reproducible task suite, and automation that runs those 
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
-- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
