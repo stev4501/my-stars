@@ -73,6 +73,7 @@
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [nosql](#nosql)
+- [npm](#npm)
 - [obsidian](#obsidian)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -89,6 +90,7 @@
 - [pytorch](#pytorch)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
+- [react](#react)
 - [reinforcement-learning](#reinforcement-learning)
 - [robotics](#robotics)
 - [rust](#rust)
@@ -191,6 +193,7 @@
 - [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) - This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink.
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 
@@ -528,6 +531,11 @@
 
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 
+## npm 
+
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
 ## obsidian 
 
 - [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
@@ -742,6 +750,10 @@
 
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code
 
+## react 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+
 ## reinforcement-learning 
 
 - [enactic/openarm](https://github.com/enactic/openarm) - A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
@@ -791,7 +803,9 @@
 ## typescript 
 
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## windows 
