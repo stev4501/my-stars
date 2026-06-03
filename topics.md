@@ -587,6 +587,7 @@
 
 ## others 
 
+- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) - Complete collection of 12 Perplexity Computer Super-Skills merging Perplexity + Claude Code capabilities across AI agents, dev, marketing, sales, finance, legal, PM, ops, research, content, security, 
 - [Strotmic/list-notebooklm-notebooks](https://github.com/Strotmic/list-notebooklm-notebooks) - About Repository that will store useful publicly shared notebooklm url's
 - [openwrt/openwrt](https://github.com/openwrt/openwrt) - This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged
