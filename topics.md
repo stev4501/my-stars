@@ -123,6 +123,7 @@
 
 ## ai 
 
+- [aomail-ai/aomail-app](https://github.com/aomail-ai/aomail-app) - Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Se
 - [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-fl
@@ -154,6 +155,7 @@
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory platform for AI Agents in 6 lines of code
@@ -184,6 +186,7 @@
 
 ## automation 
 
+- [aomail-ai/aomail-app](https://github.com/aomail-ai/aomail-app) - Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Se
 - [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
@@ -570,6 +573,7 @@
 
 ## openai 
 
+- [aomail-ai/aomail-app](https://github.com/aomail-ai/aomail-app) - Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Se
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-fl
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -587,6 +591,8 @@
 
 ## others 
 
+- [bearded-impala/outlook-agents](https://github.com/bearded-impala/outlook-agents) - This repository provides a lightweight multi-agent orchestration system for Microsoft Outlook using local Ollama LLMs and CrewAI. It periodically monitors Outlook inboxes and processes emails with spe
+- [stonefullstm/ai-email-triage](https://github.com/stonefullstm/ai-email-triage) - AI-powered email triage system combining heuristics, embeddings, and LLMs to automatically classify and prioritize messages.
 - [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) - Complete collection of 12 Perplexity Computer Super-Skills merging Perplexity + Claude Code capabilities across AI agents, dev, marketing, sales, finance, legal, PM, ops, research, content, security, 
 - [Strotmic/list-notebooklm-notebooks](https://github.com/Strotmic/list-notebooklm-notebooks) - About Repository that will store useful publicly shared notebooklm url's
@@ -638,7 +644,6 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
-- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
@@ -694,6 +699,7 @@
 
 ## productivity 
 
+- [aomail-ai/aomail-app](https://github.com/aomail-ai/aomail-app) - Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Se
 - [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) - A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
@@ -807,6 +813,7 @@
 ## typescript 
 
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+- [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) - Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
