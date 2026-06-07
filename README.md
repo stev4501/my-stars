@@ -53,6 +53,7 @@
 
 - [Strotmic/list-notebooklm-notebooks](https://github.com/Strotmic/list-notebooklm-notebooks) - About Repository that will store useful publicly shared notebooklm url's
 - [deanmalmgren/textract](https://github.com/deanmalmgren/textract) - extract text from any document. no muss. no fuss.
+- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow) - A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
@@ -119,7 +120,6 @@
 - [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
 - [humanlayer/skills](https://github.com/humanlayer/skills) - 
 - [Railly/agent-brain](https://github.com/Railly/agent-brain) - An agent-powered knowledge system built on Obsidian + Claude Code + Codex
-- [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - 
 - [coredevices/hardware](https://github.com/coredevices/hardware) - Public hardware files related to Core Devices products
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -156,7 +156,7 @@
 - [ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot](https://github.com/ifeomaadigwe/SECOM-Smart-Semiconductor-Fault-Detector-Chatbot) - An end-to-end machine learning pipeline for fault detection in semiconductor manufacturing using Machine Learning, FastAPI with Swagger UI for real-time inference, and a RAG-powered Streamlit chatbot
 - [ackrds/CMP](https://github.com/ackrds/CMP) - This is a Physics Informed ML solution to the deflection of a wafer during the chemical-mechanical polishing. It is being developed at the Fraunhofer ENAS institute.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
-- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Configuration-driven SECS/GEM driver for semiconductor equipment (SEMI E4/E5/E30/E37)
+- [shensi8312/secsgem-driver](https://github.com/shensi8312/secsgem-driver) - Open-source SECS/GEM driver + serial-to-GEM bridge for semiconductor equipment integration (SEMI E5 SECS-II, E30 GEM, E37 HSMS). Config-driven, Apache-2.0, early/v0.
 - [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal
 - [PrathamLearnsToCode/paper2code](https://github.com/PrathamLearnsToCode/paper2code) - Agent skill to turn any arxiv paper into a working implementation
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
