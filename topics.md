@@ -624,6 +624,8 @@
 
 ## others 
 
+- [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [bearded-impala/outlook-agents](https://github.com/bearded-impala/outlook-agents) - This repository provides a lightweight multi-agent orchestration system for Microsoft Outlook using local Ollama LLMs and CrewAI. It periodically monitors Outlook inboxes and processes emails with spe
 - [stonefullstm/ai-email-triage](https://github.com/stonefullstm/ai-email-triage) - AI-powered email triage system combining heuristics, embeddings, and LLMs to automatically classify and prioritize messages.
