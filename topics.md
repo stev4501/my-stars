@@ -38,6 +38,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
 - [education](#education)
@@ -302,6 +303,7 @@
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
 ## code 
 
@@ -364,6 +366,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
+## devops 
+
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
+
 ## docker 
 
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-fl
@@ -411,6 +417,7 @@
 ## golang 
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## good-first-issue 
@@ -482,6 +489,7 @@
 ## linux 
 
 - [Seeed-Studio/wiki-documents](https://github.com/Seeed-Studio/wiki-documents) - https://wiki.seeedstudio.com Seeed Studio Wiki  source code
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
 ## llm 
 
@@ -510,6 +518,7 @@
 ## macos 
 
 - [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - The free AI already on your Mac. CLI tool, OpenAI-compatible server, and interactive chat — all on-device via Apple Intelligence. No API keys, no cloud, no downloads.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
 ## markdown 
 
@@ -697,7 +706,6 @@
 - [harperreed/office-admin-claude](https://github.com/harperreed/office-admin-claude) - Claude Code plugin for email triage, calendar management, and CRM via MCP servers
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [duncanvanzyl/reolinkapipy](https://github.com/duncanvanzyl/reolinkapipy) - Reolink Camera API written in Python 3.6
 - [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6
@@ -847,6 +855,7 @@
 ## tui 
 
 - [Kuberwastaken/claurst](https://github.com/Kuberwastaken/claurst) - Agentic Coding for Builders who Ship
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
 ## twitter 
 
@@ -869,6 +878,7 @@
 ## windows 
 
 - [gmickel/outlookctl](https://github.com/gmickel/outlookctl) - Local CLI for automating Classic Outlook on Windows via COM. Includes a Claude Code/Codex Skill for AI-assisted email management with safety guardrails.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 
 ## youtube 
 
