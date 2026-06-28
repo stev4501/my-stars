@@ -140,6 +140,7 @@
 
 ## Python 
 
+- [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [bearded-impala/outlook-agents](https://github.com/bearded-impala/outlook-agents) - This repository provides a lightweight multi-agent orchestration system for Microsoft Outlook using local Ollama LLMs and CrewAI. It periodically monitors Outlook inboxes and processes emails with spe
