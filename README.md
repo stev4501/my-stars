@@ -128,7 +128,6 @@
 - [iDoka/awesome-canbus](https://github.com/iDoka/awesome-canbus) - :articulated_lorry: Awesome CAN bus tools, hardware and resources for Cyber Security Researchers, Reverse Engineers, and Automotive Electronics Enthusiasts.
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [kukapay/kukapay-mcp-servers](https://github.com/kukapay/kukapay-mcp-servers) - A comprehensive suite of Model Context Protocol (MCP) servers  from Kukapay.
 - [PickleBoxer/dev-chatgpt-prompts](https://github.com/PickleBoxer/dev-chatgpt-prompts) - 📚 Personal collection of ChatGPT prompts for developers!
 - [kwoo-lee/SMAT2022](https://github.com/kwoo-lee/SMAT2022) - 
@@ -198,6 +197,7 @@
 - [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package
 - [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [MeltingShoe/iVenus](https://github.com/MeltingShoe/iVenus) - Execute python code directly from inside Apple Notes!
 - [alexander-akhmetov/python-shortcuts](https://github.com/alexander-akhmetov/python-shortcuts) - Create Siri Shortcuts with Python
@@ -278,7 +278,7 @@
 - [TheBlueBoxDev/openwearables-react-native-sdk](https://github.com/TheBlueBoxDev/openwearables-react-native-sdk) - ⛔️ DEPRECATED - React Native wrapper of Open Wearables native SDK
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An AI-powered Life Operating System for Magnifying Human Capabilities
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [metaspartan/curiso](https://github.com/metaspartan/curiso) - Curiso is an infinite canvas for your thoughts
 - [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
