@@ -71,8 +71,9 @@
 
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [wbelk/claude-qmd-sessions](https://github.com/wbelk/claude-qmd-sessions) - Persistent chat session memory for Claude Code with qmd. Index updates itself via Claude hooks.
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) - A collection of agent skills for CAD, robotics and hardware design
-- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode…)
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
 - [magnum6actual/flipoff](https://github.com/magnum6actual/flipoff) - Free split-flap display emulator for any TV. The classic flip-board look, without the $3,500 hardware.
@@ -139,6 +140,7 @@
 
 ## Python 
 
+- [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -228,7 +230,6 @@
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [mimurchison/claude-chief-of-staff](https://github.com/mimurchison/claude-chief-of-staff) - AI Chief of Staff — Your personal AI operating system built on Claude Code
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [jamesrochabrun/skills](https://github.com/jamesrochabrun/skills) - Claude Code Skills
 - [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) - Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
