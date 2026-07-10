@@ -305,7 +305,6 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [MarioPadilla/claude-vault](https://github.com/MarioPadilla/claude-vault) - Claude Vault is a command-line tool that syncs your Claude AI conversations & Claude Code into beautifully formatted Markdown files that integrate seamlessly with Obsidian and other note-taking tools.
 - [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
-- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [AgriciDaniel/claude-email](https://github.com/AgriciDaniel/claude-email) - AI-powered email management and marketing skill for Claude Code. Inbox triage, composition, quality review, deliverability audit, automation sequences, and marketing strategy.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-fl
@@ -578,7 +577,6 @@
 
 - [yusufkaraaslan/Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
 - [notkurt/ghost](https://github.com/notkurt/ghost) - Local AI session capture and semantic search for Claude Code. Records sessions as markdown, attaches them to commits via git notes, and indexes into QMD for warm resume and project memory.
-- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) - Open Brain — The infrastructure layer for your thinking. One database, one AI gateway, one chat channel — any AI plugs in. No middleware, no SaaS.
 - [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) - MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
 - [giancarloerra/SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-fl
@@ -785,7 +783,6 @@
 ## productivity 
 
 - [aomail-ai/aomail-app](https://github.com/aomail-ai/aomail-app) - Aomail is an AI interface that connects to Gmail, Outlook, or any IMAP service. It leverages LLMs to categorize, summarize, prioritize, and help write & reply to emails faster. Google-verified, TAC Se
-- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [ballred/obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) - A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -798,7 +795,6 @@
 
 ## prompt-engineering 
 
-- [matthewod11-stack/gary-ai](https://github.com/matthewod11-stack/gary-ai) - Your personal AI chief of staff, built for the Claude Desktop app. Daily briefings, meeting prep, knowledge compilation, and on-demand research from your email, calendar, Slack, and transcripts.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. 
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
