@@ -114,6 +114,7 @@
 
 ## Others 
 
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [get-zeked/perplexity-super-skills](https://github.com/get-zeked/perplexity-super-skills) - Complete collection of 12 Perplexity Computer Super-Skills merging Perplexity + Claude Code capabilities across AI agents, dev, marketing, sales, finance, legal, PM, ops, research, content, security, 
 - [mathworks-robotics/awesome-matlab-robotics](https://github.com/mathworks-robotics/awesome-matlab-robotics) - This is a list of awesome demos, tutorials, utilities and overall resources for the robotics community that use MATLAB and Simulink.
 - [aakashg/claude-routines-and-agents-pm-pack](https://github.com/aakashg/claude-routines-and-agents-pm-pack) - Companion repo to 'Opus-4.7 + Claude Routines & Managed Agents = PM Magic'. Production-ready prompts, sample outputs, engineer handoff brief, security docs, and team rollout plan.
@@ -168,7 +169,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
-- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving" -- Community: https://open-space.cloud/
+- [HKUDS/OpenSpace](https://github.com/HKUDS/OpenSpace) - "OpenSpace: The Quality-First Skill Hub for AI Agents" -- https://open-space.cloud/
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
 - [langflow-ai/openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 - [K-Dense-AI/karpathy](https://github.com/K-Dense-AI/karpathy) - An agentic Machine Learning Engineer
