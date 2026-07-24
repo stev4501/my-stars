@@ -48,7 +48,7 @@
 - [harperreed/crm](https://github.com/harperreed/crm) - Personal CRM with MCP server, TUI, web UI, and Google sync for contacts/calendar/email
 - [seikaikyo/go-factory-io](https://github.com/seikaikyo/go-factory-io) - SECS/GEM Go driver for semiconductor equipment communication (SEMI E5/E30/E37)
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 
 ## HTML 
 
@@ -121,7 +121,6 @@
 - [ericporres/email-triage-plugin](https://github.com/ericporres/email-triage-plugin) - A plugin template that turns Claude into your personal email triage assistant. Includes three-tier classification, alias-aware routing, reply drafting, and archive management.
 - [mtconnect/2025-MTConnect-Bootcamp](https://github.com/mtconnect/2025-MTConnect-Bootcamp) - November 2025 MTConnect Education Bootcamp
 - [mtconnect/mtconnect-openusd](https://github.com/mtconnect/mtconnect-openusd) - MTConnect Conceptual Data Mapping Document for OpenUSD
-- [Railly/agent-brain](https://github.com/Railly/agent-brain) - An agent-powered knowledge system built on Obsidian + Claude Code + Codex
 - [coredevices/hardware](https://github.com/coredevices/hardware) - Public hardware files related to Core Devices products
 - [langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts) - This repo includes Claude prompt curation to use Claude better.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
@@ -265,6 +264,7 @@
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [breferrari/obsidian-mind](https://github.com/breferrari/obsidian-mind) - A self-organizing Obsidian vault that gives AI coding agents persistent memory. Claude Code, Codex CLI, Gemini CLI.
+- [Railly/agent-brain](https://github.com/Railly/agent-brain) - An agent-powered knowledge system built on Obsidian + Claude Code + Codex
 - [razakiau/claude-code](https://github.com/razakiau/claude-code) - Claude Code Snapshot for Research. All original source code is the property of Anthropic.
 - [pascalorg/editor](https://github.com/pascalorg/editor) - Create and share 3D architectural projects.
 - [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) - Give Claude Code a subconscious
