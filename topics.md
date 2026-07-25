@@ -301,6 +301,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## claude-code 
@@ -602,6 +603,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Yutarop/ros-mcp](https://github.com/Yutarop/ros-mcp) - MCP server for ROS to control robots via topics, services, and actions.
 - [wise-vision/ros2_mcp](https://github.com/wise-vision/ros2_mcp) - Advanced MCP Server ROS 2 bridging AI agents straight into robotics
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 - [robotmcp/ros-mcp-server](https://github.com/robotmcp/ros-mcp-server) - Connect AI models like Claude & GPT with robots using MCP and ROS.
 
 ## mongodb 
@@ -691,9 +693,9 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) - 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) - Claude Code SDK Demos
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
@@ -777,7 +779,6 @@
 - [kukapay/crypto-indicators-mcp](https://github.com/kukapay/crypto-indicators-mcp) - An MCP server providing a range of cryptocurrency technical analysis indicators and strategies.
 - [kukapay/opcua-mcp](https://github.com/kukapay/opcua-mcp) - An MCP server that connects to OPC UA-enabled industrial systems.
 - [kukapay/modbus-mcp](https://github.com/kukapay/modbus-mcp) - An MCP server that standardizes and contextualizes industrial Modbus data.
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [stagsz/Unconventional-thinking](https://github.com/stagsz/Unconventional-thinking) - An MCP server for unconventional and boundary-breaking problem-solving through an advanced note-taking system.
 - [jaamsim/jaamsim](https://github.com/jaamsim/jaamsim) - Master repository for Jaamsim source code
 - [VROOM-Project/vroom](https://github.com/VROOM-Project/vroom) - Vehicle Routing Open-source Optimization Machine
@@ -865,6 +866,7 @@
 
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 
 ## reinforcement-learning 
 
@@ -904,6 +906,7 @@
 ## tailwindcss 
 
 - [plugin87/ux-ui-agent-skills](https://github.com/plugin87/ux-ui-agent-skills) - Turn Claude into a Senior Design Architect — DTCG design tokens, 42 components, WCAG 2.2 accessibility, any-framework code, 138 design systems, and runnable skills.
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) - It's like v0, but in your Cursor / Claude Code / Windsurf: search 10,000+ React/Tailwind components, generate new UI with AI, and publish your own — right from your editor. Magic MCP is now the 21st M
 
 ## terminal 
 
